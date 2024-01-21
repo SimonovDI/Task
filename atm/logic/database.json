@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Ivan",
+        "lastname": "Ivanov",
+        "pin": 4545,
+        "amount": 0,
+        "block": "False"
+    },
+    {
+        "id": "2",
+        "name": "Petr",
+        "lastname": "Petrov",
+        "pin": 1212,
+        "amount": 0,
+        "block": "False"
+    },
+    {
+        "id": "3",
+        "name": "Oleg",
+        "lastname": "Smirnov",
+        "pin": 1234,
+        "amount": 0,
+        "block": "False"
+    }
+]
